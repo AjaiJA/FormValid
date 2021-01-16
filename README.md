@@ -1,2 +1,2 @@
 # FormValid
-Form Validation Using Regular Expression in JS
+Simple or Normal Form using Validaton feature in JavaScript
